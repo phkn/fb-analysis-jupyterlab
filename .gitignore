@@ -9,4 +9,8 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+### User specific configs
+config.py
+
 # End of https://www.gitignore.io/api/jupyternotebook
+#
